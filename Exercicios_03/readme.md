@@ -1,4 +1,4 @@
-<h2>Exercícios 01</h2>
+<h2>Exercícios 03</h2>
 
 ## Q01.
 Não, pois os atributos, mesmo não sendo inicializados, recebem um valor padrão. Como o atributo "quantReservas é do tipo int, automaticamente possui o valor 0. Logo, não haverá problemas na compilação.
