@@ -1,0 +1,14 @@
+<h1>Exercício de Revisão</h1>
+<p>Q01. Arquivo "int_antsuc.js"</p>
+<p>Q02. Arquivo "dolar.js"</p>
+<p>Q03. Arquivo "menor.js"</p>
+<p>Q04. Arquivo "mes.js"</p>
+<p>Q05. Arquivo "um_a_cem.js"</p>
+<p>Q06. Aqruivo "seq_soma.js"</p>
+<p>Q07. Arquivo "vetor_cinco.js"</p>
+<p>Q08. Arquivo "vetor_pares.js"</p>
+<p>Q09. Arquivo "string_sab.js"</p>
+<p>Q10. Arquivo "string_remvog.js"</p>
+<p>Q11. Arquivo "func_porcento.js"</p>
+<p>Q12. Arquivo "tempo_conv.js"</p>
+<p>Q13. Arquivo "func_repetidos.js"</p>
