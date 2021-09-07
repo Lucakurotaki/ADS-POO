@@ -9,3 +9,33 @@
 
 ## Q02.
 
+<p>a)3</p>
+<p>b)12</p>
+<p>c)NaN</p>
+
+## Q03.
+
+<p>a)Arquivo "Estados.ts"</p>
+
+``` typescript
+enum Estados {"PI","CE","MA"}
+
+for (let i = 0; i < 3; i++){
+    console.log(Estados[i]);
+}
+```
+
+<p>b)Ao executar o seguinte código, imprimiu os valores, ao invés de índices.</p>
+
+``` typescript
+enum Estados {"PI","CE","MA"}
+
+for (let i = 0; i < 3; i++){
+    let e: Estados = Estados[i]
+    console.log(e);
+}
+```
+
+## Q05.
+
+<p>Arquivo "exibir.ts"</p>
