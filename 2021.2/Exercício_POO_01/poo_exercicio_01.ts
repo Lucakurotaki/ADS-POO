@@ -26,8 +26,7 @@ pela alteração dos atributos.
     4 - Professor
     5 - Calendário
 
-6.  Personagem (atrb: nome, vida, forçaAtaque, qtdMagia, forçaMagia, tipoArma, arma) (metds: trocarArma, aumentarMagia), 
-    Arma (atrb: tipoArma, forçaAtaque, nome, id), pocaoMagia (atrb: tipoPocao, atdMagia, nome, id)
+6.  Personagem (atrb: nome, vida, forçaAtaque, qtdMagia, forçaMagia, tipoArma, arma) (metds: trocarArma, aumentarMagia), Arma (atrb: tipoArma, forçaAtaque, nome, id), pocaoMagia (atrb: tipoPocao, atdMagia, nome, id)
 
 7.
 */
