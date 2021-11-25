@@ -42,3 +42,14 @@ var ordemCresc = (lista: Array<number>) =>{
 }
 
 ordemCresc(listaDezNum);
+
+console.log("")
+
+//4.
+
+let ifpi : string = "Instituto Federal do Piauí";
+
+console.log(ifpi.toUpperCase());
+console.log(ifpi.charAt(10));
+console.log(ifpi.lastIndexOf('o'));
+console.log(ifpi.split(" "));
