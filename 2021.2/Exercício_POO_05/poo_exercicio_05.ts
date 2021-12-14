@@ -191,3 +191,7 @@ class Conta {
 	}
 
 }
+
+/*Não precisei modificar a clase Banco em função da mudança dos atributos e métodos, pois igualei os nomes dos métodos get aos dos atrbutos
+anteriores, mas se tivesse mantido o nome dos atributos e criado métodos get com outros nomes, certamente teria necessitado substituir os
+acessos diretos pelas chamadas do método get*/
